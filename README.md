@@ -21,7 +21,7 @@ Developed using:
 
 - Matplotlib
 
-#How to Use
+#How to Use<br>
 Open the notebook in Google Colab or any Jupyter environment.<br> Run each section to see how Python handles each data type.
 
 Created by Ammu K* ⭐ If you find this useful, don’t forget to star the repo!
