@@ -15,6 +15,7 @@ Conducting overlay analysis (intersection, union, difference) between vector lay
 Basic map visualization using Matplotlib
 
 Developed using:
+
 GeoPandas
 
 Shapely
@@ -22,7 +23,6 @@ Shapely
 Matplotlib
 
 #How to Use
-
 Open the notebook in Google Colab or any Jupyter environment. Run each section to see how Python handles each data type.
 
 Created by Ammu K* ⭐ If you find this useful, don’t forget to star the repo!
