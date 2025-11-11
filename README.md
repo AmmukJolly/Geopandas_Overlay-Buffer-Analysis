@@ -15,11 +15,11 @@ The notebook introduces:
 
 Developed using:
 
-GeoPandas
+- GeoPandas
 
-Shapely
+- Shapely
 
-Matplotlib
+- Matplotlib
 
 #How to Use
 Open the notebook in Google Colab or any Jupyter environment. Run each section to see how Python handles each data type.
