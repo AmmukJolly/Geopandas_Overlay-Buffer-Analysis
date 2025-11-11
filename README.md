@@ -6,13 +6,12 @@ This repository contains a Google Colab notebook designed to learn and practice 
 🚀 Overview
 The notebook introduces:
 
-How to load and explore shapefiles with GeoPandas
+- How to load and explore shapefiles with GeoPandas<br>
+- Performing buffer operations to create zones around spatial features
 
-Performing buffer operations to create zones around spatial features
+- Conducting overlay analysis (intersection, union, difference) between vector layers
 
-Conducting overlay analysis (intersection, union, difference) between vector layers
-
-Basic map visualization using Matplotlib
+- Basic map visualization using Matplotlib
 
 Developed using:
 
